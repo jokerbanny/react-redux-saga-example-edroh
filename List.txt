@@ -1,0 +1,4 @@
+- create CatsSlice
+- create Store
+- create catsSaga
+- export to index 
